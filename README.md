@@ -1,1 +1,1 @@
-# Mac-Admins-Academy
+# Mac Admins Academy
